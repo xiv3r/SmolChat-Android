@@ -96,3 +96,7 @@ The following features/tasks are planned for the future releases of the app:
   from the desktop to the mobile device for inference
 - Enable auto-scroll when generating partial response in `ChatActivity`
 - Measure token generation speed (tokens/second) and RAM consumption
+- Add [app shortcuts](https://developer.android.com/develop/ui/views/launch/shortcuts) for tasks
+- Integrate [Android-Doc-QA](https://github.com/shubham0204/Android-Document-QA) for on-device RAG-based question answering from documents
+- Check if llama.cpp can be compiled to use Vulkan for inference on Android devices (and use the mobile GPU)
+- 
