@@ -85,6 +85,23 @@ git submodule update --init --recursive
   Markwon and [Prism4j](https://github.com/noties/Prism4j) (for code syntax highlighting) to render Markdown responses 
   from the SLMs.
 
+## More On-Device ML Projects
+
+- [shubham0204/Android-Doc-QA](https://github.com/shubham0204/Android-Document-QA): On-device RAG-based question 
+  answering from documents
+- [shubham0204/OnDevice-Face-Recognition-Android](https://github.com/shubham0204/OnDevice-Face-Recognition-Android): 
+  Realtime face recognition with FaceNet, Mediapipe and ObjectBox's vector database
+- [shubham0204/FaceRecognition_With_FaceNet_Android](https://github.com/shubham0204/OnDevice-Face-Recognition-Android):
+  Realtime face recognition with FaceNet, MLKit
+- [shubham0204/CLIP-Android](https://github.com/shubham0204/CLIP-Android): On-device CLIP inference in Android 
+  (search images with textual queries)
+- [shubham0204/Segment-Anything-Android](https://github.com/shubham0204/Segment-Anything-Android): Execute Meta's 
+  SAM model in Android with onnxruntime
+- [shubham0204/Depth-Anything-Android](https://github.com/shubham0204/Depth-Anything-Android): Execute the 
+  Depth-Anything model in Android with onnxruntime for monocular depth estimation
+- [shubham0204/Sentence-Embeddings-Android](https://github.com/shubham0204/Sentence-Embeddings-Android): Generate 
+  sentence-embeddings (from models like `all-MiniLM-L6-V2`) in Android
+
 ## Future
 
 The following features/tasks are planned for the future releases of the app:
